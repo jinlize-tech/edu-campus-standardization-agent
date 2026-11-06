@@ -1,0 +1,63 @@
+{
+  "name": "edu-campus-standardization-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Campus Standardization Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-campus-standardization-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-campus-standardization-agent",
+  "displayName": {
+    "en": "Campus Standardization Agent",
+    "zh": "校区标准化体系建设"
+  },
+  "profession": {
+    "en": "Campus Standardization Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Campus Standardization Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供校区标准化体系建设专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Campus Standardization Agent.",
+    "zh": "请帮我完成一次校区标准化体系建设"
+  },
+  "plugin": "edu-campus-standardization-agent",
+  "tags": [
+    {
+      "en": "Campus Management",
+      "zh": "校区管理"
+    },
+    {
+      "en": "Standardization",
+      "zh": "标准化运营"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Campus Standardization Agent.",
+      "zh": "请帮我完成一次校区标准化体系建设"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 标准化体系诊断、制度缺口、路线图、试点范围、检查机制和复盘指标 with risks and open questions.",
+      "zh": "请生成标准化体系诊断、制度缺口、路线图、试点范围、检查机制和复盘指标，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-campus-standardization-agent",
+  "license": "Apache-2.0"
+}

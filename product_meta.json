@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "product_id": "JLZ-EDU-AG-019",
+  "chinese_name": "校区标准化体系建设",
+  "english_name": "Campus Standardization Agent",
+  "repository_name": "edu-campus-standardization-agent",
+  "product_type": "Agent",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-campus-standardization-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "校区目标、组织/流程/服务/教学标准、现状证据、问题和优先级",
+  "main_output": "标准化体系诊断、制度缺口、路线图、试点范围、检查机制和复盘指标",
+  "package_entries": [
+    "edu-campus-standardization-agent/.codebuddy-plugin/plugin.json",
+    "edu-campus-standardization-agent/agents/edu-campus-standardization-agent.md",
+    "edu-campus-standardization-agent/avatars/expert.png",
+    "edu-campus-standardization-agent/README.md"
+  ]
+}

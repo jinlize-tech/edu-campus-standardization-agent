@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-019",
+  "repository_name": "edu-campus-standardization-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-campus-standardization-agent-v1.0.0.zip",
+  "sha256": "141D208B34DF41C28E813E8438CECB002EAB672B11A19EBCB6D9808A9F0F0195",
+  "bytes": 11879,
+  "entries": [
+    "edu-campus-standardization-agent/.codebuddy-plugin/plugin.json",
+    "edu-campus-standardization-agent/agents/edu-campus-standardization-agent.md",
+    "edu-campus-standardization-agent/avatars/expert.png",
+    "edu-campus-standardization-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:46:43.2115726+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
