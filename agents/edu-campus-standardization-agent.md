@@ -6,7 +6,7 @@ displayName:
   zh: '校区标准化体系建设'
 profession:
   en: 'Campus Standardization Agent'
-  zh: ''
+  zh: '校区标准化体系建设专家'
 maxTurns: 50
 ---
 
