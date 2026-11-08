@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在校区标准化体系建设任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "校区目标": "标准合成场景｜提升执行质量、缩短处理周期并降低返工（合成业务目标）",
+    "组织/流程/服务/教学标准": "标准合成场景｜版本已确认；仅使用用户主动提供的脱敏材料（合成资料）"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
